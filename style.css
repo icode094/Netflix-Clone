@@ -6,7 +6,7 @@ body {
 .header {
   background-color: rgba(0, 0, 0, 0.6);
   background-blend-mode: multiply;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%), url("images/backgroundimg.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%), url("backgroundimg.jpg");
   background-size: cover;
   border-bottom: 10px solid grey;
   padding-bottom: 13%;
